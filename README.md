@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Pages
-## hello-word
+## hello-world
 Hi everyone! 
 I'm Vinh, student from University of Information Technology in Hochiminh City, Vietnam. I got alot more to study so hope you can help me. Thanks! 
 
